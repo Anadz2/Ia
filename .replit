@@ -1,0 +1,17 @@
+modules = ["python-3.12"]
+
+[nix]
+channel = "stable-24_05"
+packages = ["glibcLocales", "libyaml"]
+
+[workflows]
+runButton = "Run Bot"
+
+[[workflows.workflow]]
+name = "Run Bot"
+author = 44681391
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "python main.py"
