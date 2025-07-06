@@ -1,0 +1,156 @@
+2025-07-06 17:04:08 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:04:08 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:04:08 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:04:08 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:04:08 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:04:11 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:04:11 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:04:11 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:04:11 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:04:45 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música
+2025-07-06 17:04:45 - DiscordBot - ERROR - error:123 - Command error in None: Command "code" is not found
+NoneType: None
+2025-07-06 17:05:07 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !helo
+2025-07-06 17:05:07 - DiscordBot - ERROR - error:123 - Command error in None: Command "helo" is not found
+NoneType: None
+2025-07-06 17:05:09 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !help
+2025-07-06 17:05:09 - DiscordBot - ERROR - error:123 - Command error in None: Command "help" is not found
+NoneType: None
+2025-07-06 17:06:55 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:06:55 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:06:55 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:06:55 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:06:55 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:06:58 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:06:58 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:06:58 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:06:58 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:07:07 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música Discord
+2025-07-06 17:07:07 - DiscordBot - ERROR - error:123 - Command error in None: Command "code" is not found
+NoneType: None
+2025-07-06 17:07:18 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !help
+2025-07-06 17:07:18 - DiscordBot - ERROR - error:123 - Command error in None: Command "help" is not found
+NoneType: None
+2025-07-06 17:16:10 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !help
+2025-07-06 17:16:10 - DiscordBot - ERROR - error:123 - Command error in None: Command "help" is not found
+NoneType: None
+2025-07-06 17:24:44 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:24:44 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:24:44 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:24:44 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:24:44 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:24:46 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:24:46 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:24:46 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:24:46 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:25:09 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code
+2025-07-06 17:25:09 - DiscordBot - ERROR - error:123 - Command error in code: prompt is a required argument that is missing.
+NoneType: None
+2025-07-06 17:25:16 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música discord
+2025-07-06 17:25:16 - DiscordBot - ERROR - error:123 - Command error in code: You are on cooldown. Try again in 22.31s
+NoneType: None
+2025-07-06 17:25:50 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !help
+2025-07-06 17:27:03 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:27:03 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:27:03 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:27:03 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:27:03 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:27:06 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:27:06 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:27:06 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:27:06 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:27:10 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música discord
+2025-07-06 17:27:11 - DiscordBot - ERROR - error:123 - Code generation failed for user 1336389815217950793: CodeGenerationRequest.__init__() got an unexpected keyword argument 'description'
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 138, in _process_code_generation
+    request = CodeGenerationRequest(
+              ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CodeGenerationRequest.__init__() got an unexpected keyword argument 'description'
+2025-07-06 17:28:12 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:28:12 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:28:13 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:28:15 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:28:32 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:28:32 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:28:32 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:28:32 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:28:32 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:28:34 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:28:34 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:28:34 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:28:34 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:28:39 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música discord
+2025-07-06 17:29:16 - DiscordBot - ERROR - error:123 - Code generation failed for user 1336389815217950793: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 193, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 397, in _generate_with_persona
+    if not response.text:
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/google/generativeai/types/generation_types.py", line 481, in text
+    raise ValueError(msg)
+ValueError: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-07-06 17:31:17 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:31:17 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:31:17 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:31:17 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:31:17 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:31:20 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:31:20 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:31:20 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:31:20 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:31:30 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música discord
+2025-07-06 17:33:22 - DiscordBot - ERROR - error:123 - Code generation failed for user 1336389815217950793: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 244, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 199, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:36:06 - DiscordBot - INFO - info:115 - VibeCode Bot initialized
+2025-07-06 17:36:06 - DiscordBot - INFO - info:115 - Starting VibeCode Bot...
+2025-07-06 17:36:06 - DiscordBot - INFO - info:115 - Bot setup completed
+2025-07-06 17:36:06 - DiscordBot - INFO - info:115 - Daily cleanup completed
+2025-07-06 17:36:06 - DiscordBot - INFO - info:115 - Hourly stats - Requests: 0, Success: 0, Active: 0
+2025-07-06 17:36:09 - DiscordBot - INFO - info:115 - 🤖 EvyAI#5259 is online and ready!
+2025-07-06 17:36:09 - DiscordBot - INFO - info:115 - 📊 Connected to 3 guilds
+2025-07-06 17:36:09 - DiscordBot - INFO - info:115 - 👥 Serving 42 users
+2025-07-06 17:36:09 - DiscordBot - INFO - info:115 - Bot startup notification sent
+2025-07-06 17:36:09 - DiscordBot - INFO - info:115 - COMMAND | User: Evy (1336389815217950793) | Guild: 1374681363038605423 | Command: !code bot música discord
+2025-07-06 17:38:03 - DiscordBot - ERROR - error:123 - Code generation failed for user 1336389815217950793: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 249, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 204, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.

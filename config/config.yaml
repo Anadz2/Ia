@@ -1,0 +1,63 @@
+# VibeCode Bot Configuration
+bot:
+  name: "VibeCode Bot"
+  version: "1.0.0"
+  description: "Advanced Discord coding bot with Gemini AI"
+  command_prefix: "!"
+  max_message_length: 2000
+  max_file_size_mb: 25
+
+# Discord Settings
+discord:
+  token: "${DISCORD_TOKEN}"
+  intents:
+    - message_content
+    - guilds
+    - guild_messages
+  activity:
+    type: "watching"
+    name: "for !code commands"
+
+# Gemini AI Settings
+gemini:
+  api_key: "${GEMINI_API_KEY}"
+  model: "gemini-2.5-flash"
+  temperature: 0.7
+  max_tokens: 8192
+  timeout: 60
+
+# Code Generation Settings
+code_generation:
+  max_files: 50
+  max_project_size_mb: 100
+  supported_languages:
+    - python
+    - javascript
+    - html
+    - css
+    - java
+    - cpp
+    - go
+    - rust
+  
+# Testing Settings
+testing:
+  max_execution_time: 30
+  max_memory_mb: 512
+  max_correction_attempts: 10
+  sandbox_enabled: true
+
+# Logging Settings
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file_rotation: true
+  max_file_size_mb: 10
+  backup_count: 5
+
+# Paths
+paths:
+  temp_dir: "./temp"
+  projects_dir: "./projects"
+  logs_dir: "./logs"
+  templates_dir: "./templates"

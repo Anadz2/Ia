@@ -1,0 +1,90 @@
+2025-07-06 17:04:08 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:06:55 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:24:44 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:27:03 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:28:12 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:28:13 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-1.5-pro
+2025-07-06 17:28:32 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-2.5-flash
+2025-07-06 17:29:16 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 397, in _generate_with_persona
+    if not response.text:
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/google/generativeai/types/generation_types.py", line 481, in text
+    raise ValueError(msg)
+ValueError: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-07-06 17:29:16 - GeminiAI - ERROR - error:123 - Code generation failed: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 193, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 397, in _generate_with_persona
+    if not response.text:
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/google/generativeai/types/generation_types.py", line 481, in text
+    raise ValueError(msg)
+ValueError: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-07-06 17:29:16 - GeminiAI - INFO - info:115 - CODE_GEN [FAILED] User: 1336389815217950793 | Prompt: bot música discord...
+2025-07-06 17:31:17 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-2.5-flash
+2025-07-06 17:32:10 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:32:10 - GeminiAI - WARNING - warning:119 - Attempt 1: Content blocked, trying safer prompt
+2025-07-06 17:32:45 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:32:45 - GeminiAI - WARNING - warning:119 - Attempt 2: Content blocked, trying safer prompt
+2025-07-06 17:33:22 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:33:22 - GeminiAI - WARNING - warning:119 - Attempt 3: Content blocked, trying safer prompt
+2025-07-06 17:33:22 - GeminiAI - ERROR - error:123 - Code generation failed: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 244, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 199, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:33:22 - GeminiAI - INFO - info:115 - CODE_GEN [FAILED] User: 1336389815217950793 | Prompt: bot música discord...
+2025-07-06 17:36:06 - GeminiAI - INFO - info:115 - Gemini AI initialized with model: gemini-2.5-flash
+2025-07-06 17:36:47 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:36:47 - GeminiAI - WARNING - warning:119 - Attempt 1: Content blocked, trying different approach
+2025-07-06 17:36:47 - GeminiAI - INFO - info:115 - Attempt 2: Using educational programming prompt
+2025-07-06 17:37:24 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:37:24 - GeminiAI - WARNING - warning:119 - Attempt 2: Content blocked, trying different approach
+2025-07-06 17:37:24 - GeminiAI - INFO - info:115 - Attempt 3: Using educational programming prompt
+2025-07-06 17:38:03 - GeminiAI - ERROR - error:123 - Gemini generation failed with persona senior_developer: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:38:03 - GeminiAI - WARNING - warning:119 - Attempt 3: Content blocked, trying different approach
+2025-07-06 17:38:03 - GeminiAI - INFO - info:115 - Using fallback generic programming prompt
+2025-07-06 17:38:03 - GeminiAI - ERROR - error:123 - Code generation failed: Content was blocked by safety filters. Please try rephrasing your request.
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/gemini_ai.py", line 249, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 204, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:38:03 - GeminiAI - INFO - info:115 - CODE_GEN [FAILED] User: 1336389815217950793 | Prompt: bot música discord...

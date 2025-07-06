@@ -1,0 +1,98 @@
+2025-07-06 17:04:45 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "code" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:05:07 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "helo" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:05:09 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "help" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:07:07 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "code" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:07:18 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "help" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:16:10 - DiscordBot - ERROR - error:123
+Message: Command error in None: Command "help" is not found
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:25:09 - DiscordBot - ERROR - error:123
+Message: Command error in code: prompt is a required argument that is missing.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:25:16 - DiscordBot - ERROR - error:123
+Message: Command error in code: You are on cooldown. Try again in 22.31s
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:27:11 - DiscordBot - ERROR - error:123
+Message: Code generation failed for user 1336389815217950793: CodeGenerationRequest.__init__() got an unexpected keyword argument 'description'
+Exception: (<class 'TypeError'>, TypeError("CodeGenerationRequest.__init__() got an unexpected keyword argument 'description'"), <traceback object at 0x7fb44455de40>)
+---
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 138, in _process_code_generation
+    request = CodeGenerationRequest(
+              ^^^^^^^^^^^^^^^^^^^^^^
+TypeError: CodeGenerationRequest.__init__() got an unexpected keyword argument 'description'
+2025-07-06 17:29:16 - DiscordBot - ERROR - error:123
+Message: Code generation failed for user 1336389815217950793: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+Exception: (<class 'ValueError'>, ValueError("Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2."), <traceback object at 0x7fd205b80d80>)
+---
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 193, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 397, in _generate_with_persona
+    if not response.text:
+           ^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.12/site-packages/google/generativeai/types/generation_types.py", line 481, in text
+    raise ValueError(msg)
+ValueError: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-07-06 17:33:22 - DiscordBot - ERROR - error:123
+Message: Code generation failed for user 1336389815217950793: Content was blocked by safety filters. Please try rephrasing your request.
+Exception: (<class 'ValueError'>, ValueError('Content was blocked by safety filters. Please try rephrasing your request.'), <traceback object at 0x7ff87dd57ec0>)
+---
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 244, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 199, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 440, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.
+2025-07-06 17:38:03 - DiscordBot - ERROR - error:123
+Message: Code generation failed for user 1336389815217950793: Content was blocked by safety filters. Please try rephrasing your request.
+Exception: (<class 'ValueError'>, ValueError('Content was blocked by safety filters. Please try rephrasing your request.'), <traceback object at 0x7f85e9852f80>)
+---
+Traceback (most recent call last):
+  File "/home/runner/workspace/src/discord_bot.py", line 148, in _process_code_generation
+    response = await self.gemini_ai.generate_code(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 249, in generate_code
+    raise last_error or Exception("All generation attempts failed")
+  File "/home/runner/workspace/src/gemini_ai.py", line 204, in generate_code
+    response = await self._generate_with_persona(prompt, self.current_persona)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/src/gemini_ai.py", line 445, in _generate_with_persona
+    raise ValueError("Content was blocked by safety filters. Please try rephrasing your request.")
+ValueError: Content was blocked by safety filters. Please try rephrasing your request.

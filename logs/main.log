@@ -1,0 +1,175 @@
+2025-07-06 17:02:04 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:02:04 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:02:04 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:02:04 - Main - ERROR - error:123 - ❌ Environment check failed:
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 -   - DISCORD_TOKEN não foi configurado! Edite config.py e adicione seu token Discord.
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 -   - GEMINI_API_KEY não foi configurado! Edite config.py e adicione sua chave Gemini.
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 - ❌ Environment check failed. Please fix the issues and try again.
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 - 💡 Make sure to:
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 -    1. Create and configure config.py with your API keys
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 -    2. Install all required dependencies
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123 -    3. Ensure Python 3.7+ is installed
+NoneType: None
+2025-07-06 17:02:08 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:02:08 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:02:08 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:02:08 - Main - ERROR - error:123 - ❌ Environment check failed:
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 -   - DISCORD_TOKEN não foi configurado! Edite config.py e adicione seu token Discord.
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 -   - GEMINI_API_KEY não foi configurado! Edite config.py e adicione sua chave Gemini.
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 - ❌ Environment check failed. Please fix the issues and try again.
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 - 💡 Make sure to:
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 -    1. Create and configure config.py with your API keys
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 -    2. Install all required dependencies
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123 -    3. Ensure Python 3.7+ is installed
+NoneType: None
+2025-07-06 17:04:08 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:04:08 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:04:08 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:04:08 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:04:08 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:06:53 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:06:55 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:06:55 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:06:55 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:06:55 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:06:55 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:17:16 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:24:44 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:24:44 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:24:44 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:24:44 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:24:44 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:27:03 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:27:03 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:27:03 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:27:03 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:27:03 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:28:07 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:09 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:28:12 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:28:12 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:28:12 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:28:13 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:28:26 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:26 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:28 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:28 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:28:32 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:28:32 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:28:32 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:28:32 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:28:32 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:31:13 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:31:17 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:31:17 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:31:17 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:31:17 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:31:17 - Main - INFO - info:115 - Bot startup attempt 1/5
+2025-07-06 17:36:01 - Main - INFO - info:115 - Received signal 15, initiating graceful shutdown...
+2025-07-06 17:36:06 - Main - INFO - info:115 - 🔧 Setting up environment...
+2025-07-06 17:36:06 - Main - INFO - info:115 - 🔍 Checking environment configuration...
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Python version: 3.12.7 (main, Oct  1 2024, 02:05:46) [GCC 13.3.0]
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ config.py file found
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Configuration validation passed
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Directory exists: logs
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Directory exists: temp
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Directory exists: projects
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Standard Linux/Unix environment
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Environment check passed
+2025-07-06 17:36:06 - Main - INFO - info:115 - ✅ Configuration loaded successfully
+2025-07-06 17:36:06 - Main - INFO - info:115 - 🚀 Starting VibeCode Bot Manager...
+2025-07-06 17:36:06 - Main - INFO - info:115 - Bot startup attempt 1/5

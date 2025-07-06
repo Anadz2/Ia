@@ -1,0 +1,80 @@
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message: ❌ Environment check failed:
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message:   - DISCORD_TOKEN não foi configurado! Edite config.py e adicione seu token Discord.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message:   - GEMINI_API_KEY não foi configurado! Edite config.py e adicione sua chave Gemini.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message: ❌ Environment check failed. Please fix the issues and try again.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message: 💡 Make sure to:
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message:    1. Create and configure config.py with your API keys
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message:    2. Install all required dependencies
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:04 - Main - ERROR - error:123
+Message:    3. Ensure Python 3.7+ is installed
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message: ❌ Environment check failed:
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message:   - DISCORD_TOKEN não foi configurado! Edite config.py e adicione seu token Discord.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message:   - GEMINI_API_KEY não foi configurado! Edite config.py e adicione sua chave Gemini.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message: ❌ Environment check failed. Please fix the issues and try again.
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message: 💡 Make sure to:
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message:    1. Create and configure config.py with your API keys
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message:    2. Install all required dependencies
+Exception: (None, None, None)
+---
+NoneType: None
+2025-07-06 17:02:08 - Main - ERROR - error:123
+Message:    3. Ensure Python 3.7+ is installed
+Exception: (None, None, None)
+---
+NoneType: None
